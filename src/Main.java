@@ -3,7 +3,7 @@ public class Main {
         var firstBoxer=78.2;
         var secondBoxer=82.7;
         var totalWeight=firstBoxer+secondBoxer;
-        var differenceWeight=firstBoxer-secondBoxer;
+        var differenceWeight=secondBoxer-firstBoxer;
 
 
 
